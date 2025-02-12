@@ -1,1 +1,11 @@
+Romance Story Generator
+
+This rule-based system generates a short (~100 words) three-act love story using generative grammar rulesets. 
+The main structure follows a setup, confrontation, and resolution.
+The possible conflicts are the love interest is kidnapped, poisoned, or married off to someone else.
+Possible resolutions are a battle, a villain's redemption, or the villain being exiled. 
+
+To run this generator, please run each code block in order. 
+To generate new stories, re-run section 3.1. 
+If you want more variance by updating the pre-set variables, re-run section 1.2 before re-running section 3.1
 
